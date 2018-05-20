@@ -1,6 +1,6 @@
 import { StackNavigator } from "react-navigation"
 import { ExampleNavigator } from "./example-navigator"
-import { PizzaNavigator } from "./pizza-navigator";
+import { PizzaNavigator } from "./pizza-navigator"
 
 
 export const RootNavigator = StackNavigator(
