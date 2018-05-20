@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ignite-cli": "^2.1.0",
+    "react-native-cli": "^2.0.1"
+  }
+}
